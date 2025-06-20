@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atulya Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulya1947&label=Profile%20views&color=0e75b6&style=flat" alt="atulya1947" /> </p>
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulya1947&label=Profile%20views&color=0e75b6&style=flat" alt="atulya1971" /> </p>
 
 - 🌱 I’m currently learning **Mern,Advance Java**
 
