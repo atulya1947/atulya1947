@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atulya Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" align="right" alt="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulya1947&label=Profile%20views&color=0e75b6&style=flat" alt="atulya1971" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulya1947&label=Profile%20views&color=0e75b6&style=flat" alt="atulya1947" /> </p>
 
 - 🌱 I’m currently learning **Mern,Advance Java**
 
-- 📫 How to reach me **atulyakumargupta1947@gmail.com**
+- 📫 How to reach me **atulyakumargupta1971@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
 
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulya1947&show_icons=true&locale=en" alt="atulya1947" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulya1947&" alt="atulya1947" /></p>
+
